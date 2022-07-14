@@ -1,0 +1,31 @@
+﻿   @{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/LayoutLogin.cshtml";
+}
+<div class="contenedor">
+
+    <header>
+        <h1 class="title">Dakag</h1>
+        <form action="@Url.Content("~/Acceso/LoginAdmi")" method="post">
+             <input class="abrir-popup" type="submit" value="Agregar Usuario" />
+        </form>
+    </header>
+    <div class="login">
+        <article class="fondo">
+            <img src="~/images/usuario.png" alt="User">
+            <h3>Inicio de Sesión</h3>
+            <div class="row container">
+                <div class="danger">
+                    @*@ViewBag.Error*@
+                </div>
+                <form action="@Url.Content("~/Acceso/Login")" method="post">
+
+                    <span></span><input class="inp" type="email" name="User" placeholder="Usuario" required><br>
+                    <span></span><input class="inp" type="password" name="Pass" placeholder="Contraseña" required><br>
+
+                    <input class="boton btn btn-success" type="submit" name="enviar" value="Entrar">
+                </form>
+            </div>
+        </article>
+    </div>
+</div>

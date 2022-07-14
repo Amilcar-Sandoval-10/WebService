@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d3888a7961b140828a70fb011924997c" Name="Diagram1">
+        <EntityTypeShape EntityType="ventasModel1.categoria" Width="1.5" PointX="5.75" PointY="14" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.cliente" Width="1.5" PointX="5.75" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.detalleVenta" Width="1.5" PointX="10.25" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.factura" Width="1.5" PointX="8" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.modoPago" Width="1.5" PointX="5.75" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.modulo" Width="1.5" PointX="1.5" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.operaciones" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.producto" Width="1.5" PointX="8" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.rol" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.rol_operaciones" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.usuario" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.vendedor" Width="1.5" PointX="5.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="ventasModel1.venta" Width="1.5" PointX="8" PointY="2.75" IsExpanded="true" />
+        <AssociationConnector Association="ventasModel1.FK__producto__idCate__164452B1" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK_venta_cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__detalleFa__idPed__239E4DCF" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK_detalleFactura_factura" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK_detalleFactura_producto" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK_factura_modoPago" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__operacion__id_mo__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__operacion__id_mo__4222D4EF" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__operacion__id_mo__5DCAEF64" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__operacion__id_mo__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__rol_opera__id_op__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__rol_opera__id_op__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__rol_opera__id_op__5FB337D6" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__rol_opera__id_op__60A75C0F" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__rol_opera__id_ro__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__rol_opera__id_ro__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__rol_opera__id_ro__619B8048" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__rol_opera__id_ro__628FA481" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__usuario__id_rol__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__usuario__id_rol__48CFD27E" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__usuario__id_rol__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK__usuario__id_rol__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="ventasModel1.FK_venta_vendedor" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

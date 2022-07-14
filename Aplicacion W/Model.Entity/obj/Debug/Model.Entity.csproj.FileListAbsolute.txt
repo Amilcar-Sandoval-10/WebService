@@ -1,0 +1,19 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Entity\obj\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Entity\obj\Debug\Model.Entity.pdb
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Entity\bin\Debug\Model.Entity.dll
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Entity\bin\Debug\Model.Entity.pdb
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Entity\obj\Debug\Model.Entity.csprojAssemblyReference.cache
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Entity\obj\Debug\Model.Entity.dll
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Entity\obj\Debug\Model.Entity.pdb

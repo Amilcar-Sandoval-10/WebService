@@ -1,0 +1,31 @@
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\obj\Debug\Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNY\Model.Dao\obj\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2015\Projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.csproj.CopyComplete
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Users\Samuel\Documents\Visual Studio 2017\projects\FACTURA_JHONNYv2\Model.Dao\obj\Debug\Model.Dao.pdb
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Dao\bin\Debug\Model.Dao.dll
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Dao\bin\Debug\Model.Dao.pdb
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Dao\bin\Debug\Model.Entity.dll
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Dao\bin\Debug\Model.Entity.pdb
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Dao\obj\Debug\Model.Dao.csprojAssemblyReference.cache
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Dao\obj\Debug\Model.Dao.csproj.CopyComplete
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Dao\obj\Debug\Model.Dao.dll
+D:\lopez\Escritorio\Por si la cantiamos\x3\Aplicacion W\Model.Dao\obj\Debug\Model.Dao.pdb

@@ -1,0 +1,16 @@
+Amilcar Josue Sandoval Baltodano
+
+
+	Usuario administrador
+
+admin@gmail.com
+
+	Contraseña
+admin123
+
+	Usuario de vendedor
+
+vendedor@gmail.com
+
+	Contraseña
+vendedor123
